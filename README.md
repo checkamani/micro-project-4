@@ -14,29 +14,24 @@ micro-project-4/
 
 - Zeba_Micro-Project 4.ipynb      
 Full Jupyter notebook with all steps
-
 - README.md
 Project overview and documentation
+- Project PDF Report
+Zeba_Micro-Project 4.pdf
 
 # Project Summary
 
 This project builds two deep learning regression models to predict airline arrival delays:
 
 1. MLP — Multi-Layer Perceptron (Deep Neural Network)
-
 Fully connected feed-forward neural network
-
 Strong performance on structured/tabular data
-
 Provides the main baseline deep-learning model
 
 2. LSTM — Recurrent Neural Network (RNN)
 
 Demonstrates recurrent deep-learning modeling
-
-Satisfies the Micro-Project 4 requirement:
-“use deep learning regression techniques, including recurrent neural networks”
-
+Use deep learning regression techniques, including recurrent neural networks
 Reshapes tabular features into pseudo-sequences
 
 # Methods & Workflow
