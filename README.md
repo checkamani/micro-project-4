@@ -14,10 +14,12 @@ micro-project-4/
 
 - Zeba_Micro-Project 4.ipynb      
 Full Jupyter notebook with all steps
+- Zeba_Micro-Project 4.pdf
+Project PDF Report
+- Zeba_Micro-Project 4.pptx 
+Project presentation
 - README.md
 Project overview and documentation
-- Project PDF Report
-Zeba_Micro-Project 4.pdf
 
 # Project Summary
 
